@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: myregr
+Version: 0.0.2
+Summary: a regression tool
+Home-page: 
+Author: Venkat B S
+Author-email: venkatbs2003@gmail.com
+License: MIT
+Keywords: regression
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
+
+this is a regression module which performs linear regression, polynomial regression, logestic regression, ridge regression, multiple regression.
+
+Change log 
+===========
+
+0.0.1 (14/9/2023)
+-------------------
+- First Release 
+
+0.0.2 (15/9/23)
+-------------------
+- Second Release

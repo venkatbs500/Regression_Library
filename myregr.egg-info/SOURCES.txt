@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+get-pip.py
+setup.py
+myregr/__init__.py
+myregr.egg-info/PKG-INFO
+myregr.egg-info/SOURCES.txt
+myregr.egg-info/dependency_links.txt
+myregr.egg-info/requires.txt
+myregr.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+this is a regression module which performs linear regression, polynomial regression, logestic regression, ridge regression, multiple regression.
